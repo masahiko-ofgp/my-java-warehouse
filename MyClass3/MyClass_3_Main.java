@@ -7,7 +7,7 @@ public class MyClass_3_Main {
         DVDPlayer empty_dvd_player = new DVDPlayer();
 
         my_cd_player.set("Buena Vista Social Club");
-        my_dvd_player.set("Forest Gump");
+        my_dvd_player.set("Forrest Gump");
 
         my_cd_player.play();
         my_dvd_player.play();
